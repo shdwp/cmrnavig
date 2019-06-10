@@ -1,0 +1,3 @@
+[submodule "submodules/OverpassSwift"]
+	path = submodules/OverpassSwift
+	url = https://github.com/shdwp/OverpassSwift.git
